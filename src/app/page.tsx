@@ -1,4 +1,4 @@
-import Fruit from "./_componenets/Fruit";
+import Fruit from "./_componenets/Bug";
 
 export default function Home() {
   return (

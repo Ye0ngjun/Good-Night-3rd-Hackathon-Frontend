@@ -13,6 +13,7 @@ const config: Config = {
       },
       backgroundImage: {
         tree: "url('/tree.png')",
+        bgbug: "url('/bgbug.png')",
       },
     },
   },

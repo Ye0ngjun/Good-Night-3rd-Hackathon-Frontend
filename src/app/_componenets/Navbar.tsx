@@ -6,7 +6,7 @@ export default function Navbar() {
       <Link href="/" className="text-3xl ">
         Techeer Tree
       </Link>
-      <Link href="makefruit" className="text-lg">
+      <Link href="makebug" className="text-lg">
         소원 벌레 달기
       </Link>
     </div>
