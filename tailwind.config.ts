@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        pinksek: "#FF7495",
+        greensek: "#5BD25F",
       },
       backgroundImage: {
         tree: "url('/tree.png')",
